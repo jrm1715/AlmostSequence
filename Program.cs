@@ -13,6 +13,7 @@ namespace Projects
             int[] initialSequence = {3, 5, 67, 98, 3};
             List<int> sequenceList = new List<int>(initialSequence);
             Console.WriteLine(AlmostSequence(ref sequenceList, i));
+            Console.ReadLine();
         }
         // Checks if items in list or almost Sequence
         private static bool AlmostSequence(ref List<int> sequence, int i)       

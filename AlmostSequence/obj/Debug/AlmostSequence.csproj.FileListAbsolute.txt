@@ -1,0 +1,7 @@
+C:\Users\jmattis\source\repos\AlmostSequence\AlmostSequence\bin\Debug\AlmostSequence.exe.config
+C:\Users\jmattis\source\repos\AlmostSequence\AlmostSequence\bin\Debug\AlmostSequence.exe
+C:\Users\jmattis\source\repos\AlmostSequence\AlmostSequence\bin\Debug\AlmostSequence.pdb
+C:\Users\jmattis\source\repos\AlmostSequence\AlmostSequence\obj\Debug\AlmostSequence.csprojResolveAssemblyReference.cache
+C:\Users\jmattis\source\repos\AlmostSequence\AlmostSequence\obj\Debug\AlmostSequence.csproj.CoreCompileInputs.cache
+C:\Users\jmattis\source\repos\AlmostSequence\AlmostSequence\obj\Debug\AlmostSequence.exe
+C:\Users\jmattis\source\repos\AlmostSequence\AlmostSequence\obj\Debug\AlmostSequence.pdb

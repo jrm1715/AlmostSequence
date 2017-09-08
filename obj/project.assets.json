@@ -664,23 +664,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\JMattis\\.nuget\\packages\\": {},
+    "C:\\Users\\jmattis\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JMattis\\Repositories\\AlmostSequence\\Projects.csproj",
+      "projectUniqueName": "C:\\Users\\jmattis\\source\\repos\\AlmostSequence\\Projects.csproj",
       "projectName": "Projects",
-      "projectPath": "C:\\Users\\JMattis\\Repositories\\AlmostSequence\\Projects.csproj",
-      "packagesPath": "C:\\Users\\JMattis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JMattis\\Repositories\\AlmostSequence\\obj\\",
+      "projectPath": "C:\\Users\\jmattis\\source\\repos\\AlmostSequence\\Projects.csproj",
+      "packagesPath": "C:\\Users\\jmattis\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jmattis\\source\\repos\\AlmostSequence\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\JMattis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jmattis\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -18,3 +18,13 @@ C:\Users\JMattis\Repositories\AlmostSequence\obj\Debug\netcoreapp2.0\Projects.As
 C:\Users\JMattis\Repositories\AlmostSequence\obj\Debug\netcoreapp2.0\Projects.AssemblyInfo.cs
 C:\Users\JMattis\Repositories\AlmostSequence\obj\Debug\netcoreapp2.0\Projects.dll
 C:\Users\JMattis\Repositories\AlmostSequence\obj\Debug\netcoreapp2.0\Projects.pdb
+C:\Users\jmattis\Source\Repos\AlmostSequence\bin\Debug\netcoreapp2.0\Projects.deps.json
+C:\Users\jmattis\Source\Repos\AlmostSequence\bin\Debug\netcoreapp2.0\Projects.runtimeconfig.json
+C:\Users\jmattis\Source\Repos\AlmostSequence\bin\Debug\netcoreapp2.0\Projects.runtimeconfig.dev.json
+C:\Users\jmattis\Source\Repos\AlmostSequence\bin\Debug\netcoreapp2.0\Projects.dll
+C:\Users\jmattis\Source\Repos\AlmostSequence\bin\Debug\netcoreapp2.0\Projects.pdb
+C:\Users\jmattis\Source\Repos\AlmostSequence\obj\Debug\netcoreapp2.0\Projects.csproj.CoreCompileInputs.cache
+C:\Users\jmattis\Source\Repos\AlmostSequence\obj\Debug\netcoreapp2.0\Projects.AssemblyInfoInputs.cache
+C:\Users\jmattis\Source\Repos\AlmostSequence\obj\Debug\netcoreapp2.0\Projects.AssemblyInfo.cs
+C:\Users\jmattis\Source\Repos\AlmostSequence\obj\Debug\netcoreapp2.0\Projects.dll
+C:\Users\jmattis\Source\Repos\AlmostSequence\obj\Debug\netcoreapp2.0\Projects.pdb
