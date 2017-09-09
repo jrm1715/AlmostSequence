@@ -10,7 +10,7 @@ namespace Projects
         static void Main(string[] args)
         {
             int i = new int();
-            int[] initialSequence = { 3, 5, 67, 98, 3 };
+            int[] initialSequence = { 1, 2, 3, 4, 99, 5, 6 };
             List<int> sequenceList = new List<int>(initialSequence);
             Console.WriteLine(AlmostSequence(ref sequenceList, i));
             Console.ReadLine();
@@ -38,7 +38,7 @@ namespace Projects
         {
             for (i = 0; i < sequence.Count - 1; i++)
             {
-                if (sequence[i + 1] > sequence[i])
+                if (sequence[i + 1] >= sequence[i])
                 {
                     continue;
                 }
@@ -52,8 +52,20 @@ namespace Projects
         }
         private static List<int> RemoveItem(ref List<int> sequence, int i)
         {
-            int itemAtIndex = sequence[i + 1];
-            sequence.Remove(itemAtIndex);
+            int itemAtIndex;
+            itemAtIndex = i + 1;
+            if (sequence[i] >= sequence[i + 1] && i == 0)
+            {
+                sequence.RemoveAt(i);
+            } 
+            else if (sequence[i+1] <= sequence[i])
+            {
+                sequence.RemoveAt(itemAtIndex);
+            }
+            else if (sequence[i+1] < sequence[i + 2]){
+                sequence.Remove(i);
+            }
+            
             return sequence;
         }
     }
