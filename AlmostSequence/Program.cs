@@ -15,7 +15,7 @@ namespace Projects
             Console.WriteLine(AlmostSequence(ref sequenceList, i));
             Console.ReadLine();
         }
-        // Checks if items in list or almost Sequence
+        // Checks if items in list is almost Sequence
         private static bool AlmostSequence(ref List<int> sequence, int i)
         {
             if (IsSequential(ref sequence, out i))
@@ -34,6 +34,7 @@ namespace Projects
             }
             return true;
         }
+
         private static bool IsSequential(ref List<int> sequence, out int i)
         {
             for (i = 0; i < sequence.Count - 1; i++)
@@ -48,8 +49,8 @@ namespace Projects
                 }
             }
             return true;
-
         }
+
         private static List<int> RemoveItem(ref List<int> sequence, int i)
         {
             int itemAtIndex;
