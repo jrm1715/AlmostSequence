@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\AlmostSequence"
   ],
-  "SelectedNode": "\\Projects.csproj",
+  "SelectedNode": "\\AlmostSequence\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
